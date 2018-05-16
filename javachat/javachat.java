@@ -300,5 +300,3 @@ class Reader extends Thread{
 	
 	public void start(){}
 }
-
-// Copyright Eeu Leppänen.
